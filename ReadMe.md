@@ -1,8 +1,10 @@
 # いま押さえておくべきJavaScriptの最新機能とは？
 
-## イベント中に紹介したURL
+『JavaScriptコードレシピ集』のイベント『[いま押さえておくべきJavaScriptの最新機能とは？](https://connpass.com/event/123397/)』に参加いただき、ありがとうございます。
 
-「JavaScriptコードレシピ集」のイベント「[いま押さえておくべきJavaScriptの最新機能とは？](https://connpass.com/event/123397/)」のセッションにて紹介したURLです。
+フォローアップとして、セッション中で紹介したURLをリストアップしました。
+
+## イベント中に紹介したURL
 
 - デジタル時計の作成サンプル
   - [デジタル時計の作成サンプル（JavaScriptコードレシピ集 2章042）](https://ics-creative.github.io/js-code-recipe/samples/c02/042/index.html)
@@ -26,9 +28,9 @@
 - 各ブラウザーにおける ESの対応状況を一覧で 確認できるテーブル
   -  [ECMAScript 2016\+ compatibility table](http://kangax.github.io/compat-table/es2016plus/)
 
-## JavaScriptコードレシピ集に関するURL
+## JavaScriptコードレシピ集のサポートページのURL
 
-「JavaScriptコードレシピ集」の公式ページやサポートページのURLです。
+『JavaScriptコードレシピ集』のサポートページのURLです。
 
 - [JavaScript コードレシピ集 - 技術評論社](https://gihyo.jp/book/2019/978-4-297-10368-2)
-- [「JavaScriptコードレシピ集」を執筆しました！ \- ICS MEDIA](https://ics.media/entry/19765/)
+- [JavaScriptコードレシピ集を執筆しました！ \- ICS MEDIA](https://ics.media/entry/19765/)
